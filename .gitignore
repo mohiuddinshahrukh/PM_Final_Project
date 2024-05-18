@@ -1,0 +1,88 @@
+# Node modules
+**/node_modules/
+
+# Built files and output directories
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Compiled JavaScript files
+*.js
+
+# Compiled CSS files
+*.css
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+.DS_Store
+.eslintcache
+
+# User-specific files
+.npmrc
+
+# Miscellaneous
+.cache/
+coverage/
+.npm
+.yarn
+
+
+
+# PYTHON
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+pip-wheel-metadata/
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# Miscellaneous
+.DS_Store
